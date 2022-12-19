@@ -80,4 +80,5 @@ Todo
 ### Other Resources
 
 1. <https://refactoring.guru/design-patterns/go>
-2. <https://en.wikipedia.org/wiki/Software_design_pattern#>
+2. <https://mauricio.github.io/2022/02/07/gof-patterns-in-golang.html>
+3. <https://en.wikipedia.org/wiki/Software_design_pattern#>
