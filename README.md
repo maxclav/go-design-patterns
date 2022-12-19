@@ -68,8 +68,8 @@ Todo
 
 ### Books
 
-1. <https://www.oreilly.com/library/view/design-patterns-elements/0201633612/>
-2. <https://www.oreilly.com/library/view/code-complete-2nd/0735619670/>
+1. <https://www.oreilly.com/library/view/design-patterns-elements/0201633612>
+2. <https://www.oreilly.com/library/view/code-complete-2nd/0735619670>
 
 ### Github
 
@@ -81,4 +81,4 @@ Todo
 
 1. <https://refactoring.guru/design-patterns/go>
 2. <https://mauricio.github.io/2022/02/07/gof-patterns-in-golang.html>
-3. <https://en.wikipedia.org/wiki/Software_design_pattern#>
+3. <https://en.wikipedia.org/wiki/Software_design_pattern>
