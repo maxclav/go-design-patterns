@@ -20,18 +20,18 @@ For learning purposes: Some design patterns may not make sense when writing idio
 
 ### Creational Patterns
 
-| Pattern          | Description                                                                                                                                                            | Gists                                                                    |
-| ---------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------ |
-| Abstract Factory | Provides an interface for creating families of related or dependent objects without specifying their concrete classes.                                                 | Todo                                                                     |
-| Builder          | Separate the construction of a complex object from its representation so that the same construction process can create different representations.                      | Todo                                                                     |
-| Factory Method   | Define an interface for creating a single object, but let subclasses decide which class to instantiate. Factory Method lets a class defer instantiation to subclasses. | Todo                                                                     |
-| Prototype        | Specify the kinds of objects to create using a prototypical instance and create new objects by copying this prototype.                                                 | Todo                                                                     |
-| Singleton        | Ensure a class has only one instance, and provide a global point of access to it.                                                                                      | [Link](https://gist.github.com/maxclav/2200c92d3cf3ed362b90d1fae0bdd03f) |
+| Pattern          | Description  | Gist |
+| -----------------| ------------ | ---- |
+| Abstract Factory | Provides an interface for creating families of related or dependent objects without specifying their concrete classes. | Todo |
+| Builder          | Separate the construction of a complex object from its representation so that the same construction process can create different representations. | Todo |
+| Factory Method   | Define an interface for creating a single object, but let subclasses decide which class to instantiate. Factory Method lets a class defer instantiation to subclasses. | [Link](https://gist.github.com/maxclav/0e5dd39ba014a4bcfd67fc10f6096d22) |
+| Prototype        | Specify the kinds of objects to create using a prototypical instance and create new objects by copying this prototype.                                                 | Todo |
+| Singleton        | Ensure a class has only one instance, and provide a global point of access to it. | [Link](https://gist.github.com/maxclav/2200c92d3cf3ed362b90d1fae0bdd03f) |
 
 ### Structural Patterns
 
-| Pattern   | Description  | Gists |
-| --------- | ------------ | ----- |
+| Pattern   | Description  | Gist |
+| --------- | ------------ | ---- |
 | Adapter   | Convert the interface of a class into another interface that clients expect. Adapter lets classes work together that could not otherwise because of incompatible interfaces.. | Todo  |
 | Bridge    | Decouple an abstraction from its implementation so that the two can vary independently. | Todo  |
 | Composite | Compose objects into tree structures to represent part-whole hierarchies. Composite lets clients treat individual objects and compositions of objects uniformly. | Todo  |
@@ -42,8 +42,8 @@ For learning purposes: Some design patterns may not make sense when writing idio
 
 ### Behavioral Patterns
 
-| Pattern                 | Description  | Gists |
-| ----------------------- | ------------ | ----- |
+| Pattern                 | Description  | Gist |
+| ----------------------- | ------------ | ---- |
 | Chain of Responsibility | Avoir coupling the sender of a request to its receiver by giving more than one object a chance to handle the request. | Todo  |
 | Command                 | Encapsulate a request as an object, thereby letting you parameterize clients with different requests, queue or log requests, and support undoable operations. | Todo  |
 | Interpreter             | Given a language, define a representation for its grammar along with an interpreter that uses the representation to interpret sentences in the language. | Todo  |
