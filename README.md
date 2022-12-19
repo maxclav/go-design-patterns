@@ -32,29 +32,29 @@ For learning purposes: Some design patterns may not make sense when writing idio
 
 | Pattern   | Description  | Gists |
 | --------- | ------------ | ----- |
-| Adapter   | Description. | Todo  |
-| Bridge    | Description. | Todo  |
-| Composite | Description. | Todo  |
-| Decorator | Description. | Todo  |
-| Facade    | Description. | Todo  |
-| Flyweight | Description. | Todo  |
-| Proxy     | Description. | Todo  |
+| Adapter   | Convert the interface of a class into another interface that clients expect. Adapter lets classes work together that could not otherwise because of incompatible interfaces.. | Todo  |
+| Bridge    | Decouple an abstraction from its implementation so that the two can vary independently. | Todo  |
+| Composite | Compose objects into tree structures to represent part-whole hierarchies. Composite lets clients treat individual objects and compositions of objects uniformly. | Todo  |
+| Decorator | Attach additional responsibilities to an object dynamically. Decorators provide a flexible alternative to subclassing for extending functionality. | Todo  |
+| Facade    | Provide a unified interface to a set of interfaces in a subsystem. Facade define a higher level interface that makes the subsystem easier to use. | Todo  |
+| Flyweight | Use sharing to support large numbers of fine grained objects efficiently. | Todo  |
+| Proxy     | Provide a surrogate or placeholder for another object to control access to it. | Todo  |
 
 ### Behavioral Patterns
 
 | Pattern                 | Description  | Gists |
 | ----------------------- | ------------ | ----- |
-| Chain of Responsibility | Description. | Todo  |
-| Command                 | Description. | Todo  |
-| Interpreter             | Description. | Todo  |
-| Iterator                | Description. | Todo  |
-| Mediator                | Description. | Todo  |
-| Memento                 | Description. | Todo  |
-| Observer                | Description. | Todo  |
-| State                   | Description. | Todo  |
-| Strategy                | Description. | Todo  |
-| Template Method         | Description. | Todo  |
-| Visitor                 | Description. | Todo  |
+| Chain of Responsibility | Avoir coupling the sender of a request to its receiver by giving more than one object a chance to handle the request. | Todo  |
+| Command                 | Encapsulate a request as an object, thereby letting you parameterize clients with different requests, queue or log requests, and support undoable operations. | Todo  |
+| Interpreter             | Given a language, define a representation for its grammar along with an interpreter that uses the representation to interpret sentences in the language. | Todo  |
+| Iterator                | Provide a way to access the elements of an aggregate objects sequentially without exposing its underlying representation. | Todo  |
+| Mediator                | Define an object that encapsulates how a set of objects interact. | Todo  |
+| Memento                 | Without violating encapsulation, capture and externalize an object's internal state to that the object can be restored to this state later. | Todo  |
+| Observer                | Define a one-to-many dependency between objects so that when one object changes state, all its dependents are notified and updated automatically. | Todo  |
+| State                   | Allow an object to alter its behavior when its internal state changes. The object will appear to change its class. | Todo  |
+| Strategy                | Define a family of algorithms, encapsulate each one, and make them interchangeable.. | Todo  |
+| Template Method         | Define the skeleton of an algorithm in an operation, deferring some steps to subclasses. | Todo  |
+| Visitor                 | Represent an operation to be performed in the elements of an object structure. | Todo  |
 
 ### Concurrency Patterns
 
