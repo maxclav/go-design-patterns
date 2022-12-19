@@ -23,7 +23,7 @@ For learning purposes: Some design patterns may not make sense when writing idio
 | Pattern          | Description  | Gist |
 | -----------------| ------------ | ---- |
 | Abstract Factory | Provides an interface for creating families of related or dependent objects without specifying their concrete classes. | Todo |
-| Builder          | Separate the construction of a complex object from its representation so that the same construction process can create different representations. | Todo |
+| Builder          | Separate the construction of a complex object from its representation so that the same construction process can create different representations. | [Link](https://gist.github.com/maxclav/b982bfd7da5f4aa9f03bb5877c02b958) |
 | Factory Method   | Define an interface for creating a single object, but let subclasses decide which class to instantiate. Factory Method lets a class defer instantiation to subclasses. | [Link](https://gist.github.com/maxclav/0e5dd39ba014a4bcfd67fc10f6096d22) |
 | Prototype        | Specify the kinds of objects to create using a prototypical instance and create new objects by copying this prototype. | [Link](https://gist.github.com/maxclav/b669496c49eea3c404c6dd529699e65d) |
 | Singleton        | Ensure a class has only one instance, and provide a global point of access to it. | [Link](https://gist.github.com/maxclav/2200c92d3cf3ed362b90d1fae0bdd03f) |
